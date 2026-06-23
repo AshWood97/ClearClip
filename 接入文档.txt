@@ -1,0 +1,20 @@
+接入runninghub：
+https://www.runninghub.cn/runninghub-api-doc-cn/
+
+
+去水印接口：
+/run/ai-app/2059943323456065537
+
+https://www.runninghub.cn/call-api/api-detail/2059943323456065537?apiType=4
+
+
+超分接口：
+1、FlashVSR Ultra Fast full高质量版 -（720p）放大至（4k）
+/run/ai-app/2023058520156934145
+
+https://www.runninghub.cn/call-api/api-detail/2023058520156934145?apiType=4
+
+2、SeedVR2-1280x720（720p）放大至2560x1440（2k）
+/run/ai-app/2023054533156409346
+
+https://www.runninghub.cn/call-api/api-detail/2023054533156409346?apiType=4
